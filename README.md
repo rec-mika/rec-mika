@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @rec-mika a Technical Recruiter
-- 👀 I’m interested in Learning new tech and helping you find a new jobe oppertunity
+- 👋 Hi, I’m Mikayla a Technical Recruiter with SpringbokIT
+- 👀 I’m interested in Learning new tech and helping you find a new job oppertunity
 - 🌱 I’m currently learning everything github
 - 💞️ I’m looking to collaborate on learing new tech
 - 📫 How to reach me mikayla.ham@springbokit.com
